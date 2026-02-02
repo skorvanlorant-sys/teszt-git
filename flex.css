@@ -1,0 +1,13 @@
+#container{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.third{
+    border: 2px solid red;
+    flex: 1 0 0;
+    flex-grow: 1;
+    flex-shrink: 0;
+    flex-basis: 0;
+}
