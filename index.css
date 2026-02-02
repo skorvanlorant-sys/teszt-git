@@ -1,0 +1,9 @@
+#gcontainer{
+    display:grid;
+    border: 2px solid black;
+
+}
+
+.gitem{
+    border: 2px dotted red;
+}
